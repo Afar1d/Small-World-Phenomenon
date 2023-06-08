@@ -1,0 +1,15 @@
+C:\Users\Ahmed M. Farid\Desktop\small_word_final\small_word_final\small_word_final\bin\Debug\small_word_final.exe.config
+C:\Users\Ahmed M. Farid\Desktop\small_word_final\small_word_final\small_word_final\bin\Debug\small_word_final.exe
+C:\Users\Ahmed M. Farid\Desktop\small_word_final\small_word_final\small_word_final\bin\Debug\small_word_final.pdb
+C:\Users\Ahmed M. Farid\Desktop\small_word_final\small_word_final\small_word_final\obj\Debug\small_word_final.csprojAssemblyReference.cache
+C:\Users\Ahmed M. Farid\Desktop\small_word_final\small_word_final\small_word_final\obj\Debug\small_word_final.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed M. Farid\Desktop\small_word_final\small_word_final\small_word_final\obj\Debug\small_word_final.exe
+C:\Users\Ahmed M. Farid\Desktop\small_word_final\small_word_final\small_word_final\obj\Debug\small_word_final.pdb
+E:\Projects\Small World Phenomenon wiht c# (Algo project)\small_word_final\small_word_final\small_word_final\bin\Debug\small_word_final.exe.config
+E:\Projects\Small World Phenomenon wiht c# (Algo project)\small_word_final\small_word_final\small_word_final\bin\Debug\small_word_final.exe
+E:\Projects\Small World Phenomenon wiht c# (Algo project)\small_word_final\small_word_final\small_word_final\bin\Debug\small_word_final.pdb
+E:\Projects\Small World Phenomenon wiht c# (Algo project)\small_word_final\small_word_final\small_word_final\obj\Debug\small_word_final.csproj.AssemblyReference.cache
+E:\Projects\Small World Phenomenon wiht c# (Algo project)\small_word_final\small_word_final\small_word_final\obj\Debug\small_word_final.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Small World Phenomenon wiht c# (Algo project)\small_word_final\small_word_final\small_word_final\obj\Debug\small_word_final.csproj.CoreCompileInputs.cache
+E:\Projects\Small World Phenomenon wiht c# (Algo project)\small_word_final\small_word_final\small_word_final\obj\Debug\small_word_final.exe
+E:\Projects\Small World Phenomenon wiht c# (Algo project)\small_word_final\small_word_final\small_word_final\obj\Debug\small_word_final.pdb
